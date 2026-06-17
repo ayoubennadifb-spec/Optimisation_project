@@ -1,0 +1,12 @@
+{
+  "statut": "Optimal",
+  "marge_totale_MAD": 34190404.55,
+  "tonnage_livre_T": 13536.2,
+  "tonnage_demande_perimetre_T": 16958.0,
+  "tonnage_demande_carnet_T": 17201.0,
+  "taux_service_pct": 79.82,
+  "marge_moyenne_MAD_par_T": 2525.8,
+  "commandes_refus_total": 11,
+  "commandes_partielles": 4,
+  "is_mip": false
+}

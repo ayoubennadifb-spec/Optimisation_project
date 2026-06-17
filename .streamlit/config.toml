@@ -1,0 +1,10 @@
+# Thème de l'application (assorti au rapport : bleu marine + accent doré).
+[theme]
+primaryColor = "#C9943E"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F2F4F7"
+textColor = "#14304A"
+font = "sans serif"
+
+[server]
+headless = true

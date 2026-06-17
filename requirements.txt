@@ -1,0 +1,9 @@
+# Simulateur Capacité–Commande Maghreb Steel — dépendances Python
+# Python 3.10+ requis (testé sur 3.12).
+pulp>=2.8,<4         # modélisation PL/MILP + solveur CBC embarqué (API stable < 4.0)
+openpyxl>=3.1        # lecture du fichier Donnees_MaghrebSteel.xlsx
+pandas>=2.0          # manipulation tabulaire et exports
+numpy>=1.24          # calculs numériques (sensibilité, robustesse)
+matplotlib>=3.7      # figures (utilisation lignes, courbe d'enveloppe)
+streamlit>=1.30      # application interactive de planification (bonus B6)
+pytest>=7.0          # tests unitaires

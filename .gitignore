@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Rapport et slides : NON publiés sur le dépôt (conservés uniquement en local)
+rapport/
+slides/
+
+# Figures générées : non publiées (régénérées par main.py / reporting.py)
+outputs/figures/
+
+# OS
+.DS_Store
+Thumbs.db
